@@ -12,7 +12,7 @@ It would be fantastic if you can also validate the email address to determine if
 
 For example,
 
-```
+``` 
 info@decagon.com.ng
 ```
 
